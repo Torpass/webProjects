@@ -1,0 +1,114 @@
+h1, h2, p
+{
+    text-align: center;
+}
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+
+h1
+{
+    font-size: 50px;
+    margin-top:0; 
+    margin-bottom:15px;
+}
+
+h2
+{
+    font-size: 30px;
+}
+
+.stabisled
+{
+    font-style: italic;
+}
+
+
+h1, h2{
+    font-family: Impact, serif;
+}
+
+
+body
+{
+    font-family: sans-serif;
+    background-image: url(https://cdn.pixabay.com/photo/2020/07/18/16/29/coffee-5417663_1280.png);
+    padding: 20px; 
+
+}
+
+
+.menu
+{
+    max-width: 500px;
+    background-color: #432818;
+    margin-left: auto;
+    margin-right: auto; 
+    padding-left: 20px;
+    padding: 20px; 
+    
+}
+
+
+.address{
+    margin-bottom:5px;
+  }
+
+
+  img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: -25px;
+    max-width: 75px;
+  }
+
+.menu_text_color
+{
+    color: white;
+}
+
+
+.flavor, .dessert
+{
+  text-align: left;
+  width: 74%;
+}
+
+.price{
+    text-align: right;
+    width: 24%;
+  }
+
+
+.bottom-line 
+{
+    margin-top: 25px;
+}
+
+.item p 
+{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;  
+    font-size: 18px;
+}
+
+
+a{
+    color:white;
+
+  }
+a:visited { color: white; }
+a:hover { color: brown; }
+a:active { color: white; }
+
+
+
+/* FOOTER */
+footer {
+    font-size: 14px;
+  }
